@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f15a45db-c55b-4d15-992c-c2ce4404d660" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/main/java/org/example/punto1/Consumidor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/main/java/org/example/punto1/Ejecucion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/main/java/org/example/punto1/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/main/java/org/example/punto1/P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/main/java/org/example/punto1/Tuberia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/main/resources/letras.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/main/resources/letrasSobrantes.txt" afterDir="false" />
-    </list>
+    <list default="true" id="f15a45db-c55b-4d15-992c-c2ce4404d660" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,18 +30,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Camilo",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/caoa2/OneDrive/Documents/GitHub/parcial3/.idea",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Camilo&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/caoa2/OneDrive/Documents/GitHub/parcial3/.idea&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\caoa2\OneDrive\Documents\GitHub\parcial3\.idea" />
@@ -66,6 +57,7 @@
       <updated>1716408160829</updated>
       <workItem from="1716408162022" duration="8000" />
       <workItem from="1716409959833" duration="253000" />
+      <workItem from="1716410255643" duration="65000" />
     </task>
     <servers />
   </component>
