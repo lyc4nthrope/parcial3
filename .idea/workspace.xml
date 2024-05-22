@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f15a45db-c55b-4d15-992c-c2ce4404d660" name="Changes" comment="" />
+    <list default="true" id="f15a45db-c55b-4d15-992c-c2ce4404d660" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/main/java/org/example/punto1/Consumidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/main/java/org/example/punto1/Ejecucion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/main/java/org/example/punto1/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/main/java/org/example/punto1/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/main/java/org/example/punto1/Tuberia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/main/resources/letras.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/main/resources/letrasSobrantes.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,21 +19,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "lyc4nthrope"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lyc4nthrope&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/lyc4nthrope/parcial3.git",
-    "accountId": "3efe0d94-62f5-4f16-bdcd-433631c85e5b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lyc4nthrope/parcial3.git&quot;,
+    &quot;accountId&quot;: &quot;3efe0d94-62f5-4f16-bdcd-433631c85e5b&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2gpx8Qy4OmNgTIxjB5TvS5RLoO2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,20 +41,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Camilo",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/caoa2/OneDrive/Documents/GitHub/parcial3/.idea",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
-      </set>
-    </attachedChunks>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\caoa2\OneDrive\Documents\GitHub\parcial3\.idea" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716408160829</updated>
       <workItem from="1716408162022" duration="8000" />
+      <workItem from="1716409959833" duration="253000" />
     </task>
     <servers />
   </component>
